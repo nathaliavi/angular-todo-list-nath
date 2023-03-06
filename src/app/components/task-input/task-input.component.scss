@@ -1,0 +1,16 @@
+:host{
+    input{
+        width:80%;
+
+        margin:7% auto;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        
+        padding: 5px;
+
+        border-radius: 5px;
+        border-width: 1px;
+        outline: none;
+    }
+}

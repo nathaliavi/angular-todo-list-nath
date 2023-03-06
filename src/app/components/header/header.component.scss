@@ -1,0 +1,14 @@
+@import '../../../dist/variables.scss';
+
+h1{
+    background: $green-color;
+    color: $white-color;
+
+    padding: 10px 0;
+
+    display: flex;
+    justify-content: center;
+    text-align: center;
+
+    font-size: 26px;
+}
